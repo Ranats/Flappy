@@ -1,0 +1,17 @@
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEditor.dll
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEngine.dll
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEngine.xml
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEditor.xml
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\obj\Debug\UnityVS.FlappySumthing.CSharp.csprojResolveAssemblyReference.cache
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\obj\Debug\Assembly-CSharp.dll
+G:\Desktop\Desktop\Unity\Projects\5.1\FlappySumthing\obj\Debug\Assembly-CSharp.pdb
